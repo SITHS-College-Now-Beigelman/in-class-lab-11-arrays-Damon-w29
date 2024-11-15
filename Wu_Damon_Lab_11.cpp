@@ -8,6 +8,13 @@ using namespace std;
 
 int main(){
 
+// declare variables
+int num;
+
+    const int ARRAY_SIZE = 50;
+   		 double alpha[ARRAY_SIZE];
+    for(alpha >= 1 && alpha <= 25, alpha ++)
+
 
 
 
